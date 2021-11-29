@@ -720,6 +720,12 @@ style='mso-fareast-language:KO'><o:p></o:p></span></p>
 	<p><img src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/servlet-context.PNG"/></p>
 	<p>-url_mapping</p>
 	<p><img src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/url_mapping.PNG"/></p>
+	<p>실행</p>
+	<p><img src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/%EC%8B%A4%ED%96%891.PNG"/></p>
+	<p><img src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/%EC%8B%A4%ED%96%892.PNG"/></p>
+	<p><img src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/%EC%8B%A4%ED%96%893.PNG"/></p>
+	<p>YouTube 실행 동영상</p>
+	<p>https://www.youtube.com/watch?v=xjOf0i1Za7E</p>
 
 <p class=MsoNormal style='tab-stops:968.0pt'><span style='mso-fareast-language:
 KO'>-</span><span lang=KO style='font-family:"Batang",serif;mso-bidi-font-family:
