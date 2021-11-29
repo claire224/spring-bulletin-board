@@ -904,6 +904,16 @@ mso-bidi-font-family:Batang;mso-fareast-language:KO;mso-no-proof:yes'><!--[if gt
 </v:shape><![endif]--><![if !vml]><img width=399 height=952
 src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/roadmap.PNG" v:shapes="Picture_x0020_2"><![endif]></span><span
 style='mso-fareast-language:KO'><o:p></o:p></span></p>
+	<p>-board_테이블</p>
+	<p><img src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/board_%ED%85%8C%EC%9D%B4%EB%B8%94.PNG"/></p>
+	<p>-member2_테이블</p>
+	<p><img src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/member2_%ED%85%8C%EC%9D%B4%EB%B8%94.PNG"/></p>
+	<p>-root-context</p>
+	<p><img src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/root-context.PNG"/></p>
+	<p>-servlet-context</p>
+	<p><img src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/servlet-context.PNG"/></p>
+	<p>-url_mapping</p>
+	<p><img src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/url_mapping.PNG"/></p>
 
 <p class=MsoNormal style='tab-stops:968.0pt'><span style='mso-fareast-language:
 KO'>-</span><span lang=KO style='font-family:"Batang",serif;mso-bidi-font-family:
