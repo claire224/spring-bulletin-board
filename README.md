@@ -902,7 +902,7 @@ mso-bidi-font-family:Batang;mso-fareast-language:KO;mso-no-proof:yes'><!--[if gt
  style='width:299.4pt;height:714pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="&#47532;&#46300;&#48120;_files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=399 height=952
-src="&#47532;&#46300;&#48120;_files/image002.png" v:shapes="Picture_x0020_2"><![endif]></span><span
+src="https://raw.githubusercontent.com/claire224/spring-bulletin-board/main/show/roadmap.PNG" v:shapes="Picture_x0020_2"><![endif]></span><span
 style='mso-fareast-language:KO'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='tab-stops:968.0pt'><span style='mso-fareast-language:
